@@ -5,219 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Current File" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05e56c0f-490e-4d8b-b2d0-60589df455dc" name="Default" comment="Репозиторий &quot;перезалит&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/Adapter.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/DuckTestDrive.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/MallardDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Turkey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/TurkeyAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/WildTurkey.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/Command.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/RemoteControl.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/RemoteLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFanHighCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFanMediumCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunLowCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunOffCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/Command.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/GarageDoorDownCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/GarageDoorUpCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/HottubOffCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/HottubOnCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/LightOffCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/LightOnCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/MacroCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/NoCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/StereoOffWithCDCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/StereoOnWithCDCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/TVOffCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/TVOnCommand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/RemoteControl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/RemoteControlWithUndo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/SimpleRemoteControl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/CeilingFan.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/GarageDoor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Hottub.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Light.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Stereo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/TV.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/FanSpeed.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/GarageType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/RoomType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/Cafe.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/CompositeIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/CompositeMenuTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/MenuComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/MenuItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/NullIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/Waitress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Composite.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/LowerCaseInputStream.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/InputTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/LowerCaseInputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/text.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/StarbuzzCoffee.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/StarbuzCoffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/Beverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/BeverageSize.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/CondimentDecorator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/DarkRoast.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/Espresso.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/HouseBlend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Mocha.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Soy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Whip.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/Facade.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/HomeCinemaTheater.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/HomeTheatreFacade.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/HomeTheatreTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Amplifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/CdPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/DvdPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/PopcornPopper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Projector.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Screen.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/TheaterLights.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Tuner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Factory.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/Pizza.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/PizzaTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/PizzaIngredientFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/chicago/ChicagoPizzaIngredientFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/BlackOlives.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Cheese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Clams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Dough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/EggPlant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/FreshClams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/FrozenClams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Garlic.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/MarinaraSauce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/MozzarellaCheese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Mushrooms.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Onion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Pepperoni.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/PlumTomatoSauce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/RedPepper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ReggianoCheese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Sauce.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/SlicedPepperoni.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Spinach.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ThickCrustDough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ThinCrustDough.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Veggies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/newyork/NYPizzaIngredientFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/CheseePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/ClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/PepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/Pizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/PizzaType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/VeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYClamPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStyleCheesePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStylePepperoniPizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStyleVeggiePizza.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/PizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/chicago/ChicagoPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/newyork/NYPizzaStore.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/CafeMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/DinnerMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/DinnerMenuIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/IteratorMenuTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/Menu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/MenuItem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/PancakeHouseMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/Waitress.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Iterator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/Observer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/WeatherStation.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/WeatherStation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/observers/CurrentConditionDisplay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/observers/DisplayElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/subject/WeatherData.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Patterns.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/CDCoverViewer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageComponent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxyTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/GumballMonitor.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineRemote.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitorTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/HasQuarterSate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/WinnerState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/PersonBean.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/MatchMakingTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/NonOwnerInvocationHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/OwnerInvocationHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBean.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBeanImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/Proxy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/GumballMachine.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/GumballMachine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/GumballMachineTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/HasQuarterSate.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/NoQuarterState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/SoldOutState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/SoldState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/State.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/WinnerState.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/State.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/MiniDuckSimulator.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/MiniDuckSimulator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyNoWay.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyRocketPowered.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyWithWings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/MuteQuack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/Quack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/QuackBehavior.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/Squeak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/Duck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/MallardDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/ModelDuck.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/Starbuzz.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/BeverageTestDrive.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CaffeineBeverage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CaffeineBeverageWithHook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/Coffee.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CoffeeWithHook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/Tea.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/TeaWithHook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+    <list default="true" id="05e56c0f-490e-4d8b-b2d0-60589df455dc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Patterns.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1047,7 +836,7 @@
       <workItem from="1506952084000" duration="119000" />
       <workItem from="1507042436460" duration="996000" />
       <workItem from="1507100926976" duration="138000" />
-      <workItem from="1507101125257" duration="365000" />
+      <workItem from="1507101125257" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1495802782087</created>
@@ -1161,11 +950,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507043047778</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Репозиторий &quot;перезалит&quot;">
+      <created>1507101514496</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1507101514496</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137335000" />
+    <option name="totallyTimeSpent" value="137391000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1275,7 +1071,8 @@
     <MESSAGE value="Added module, CDCoverViewer, that implements the proxy pattern" />
     <MESSAGE value="Added module, PersonBean, that implements the proxy pattern" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Репозиторий &quot;перезалит&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Репозиторий &quot;перезалит&quot;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1658,6 +1455,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1665,6 +1463,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1672,6 +1471,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1679,6 +1479,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
           <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
