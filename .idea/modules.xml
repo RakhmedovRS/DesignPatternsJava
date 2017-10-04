@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/CDCoverViewer/CDCoverViewer.iml" filepath="$PROJECT_DIR$/Proxy/CDCoverViewer/CDCoverViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Cafe/Cafe.iml" filepath="$PROJECT_DIR$/Composite/Cafe/Cafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml" filepath="$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/Command.iml" filepath="$PROJECT_DIR$/Command/Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/DuckTestDrive/DuckTestDrive.iml" filepath="$PROJECT_DIR$/Adapter/DuckTestDrive/DuckTestDrive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/GumballMachine/GumballMachine.iml" filepath="$PROJECT_DIR$/State/GumballMachine/GumballMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/GumballMonitor/GumballMonitor.iml" filepath="$PROJECT_DIR$/Proxy/GumballMonitor/GumballMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Facade/HomeCinemaTheater/HomeCinemaTheater.iml" filepath="$PROJECT_DIR$/Facade/HomeCinemaTheater/HomeCinemaTheater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/LowerCaseInputStream/LowerCaseInputStream.iml" filepath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/LowerCaseInputStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/MiniDuckSimulator/MiniDuckSimulator.iml" filepath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/MiniDuckSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patterns.iml" filepath="$PROJECT_DIR$/Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/PersonBean/PersonBean.iml" filepath="$PROJECT_DIR$/Proxy/PersonBean/PersonBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/Factory/Pizza/Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Command/RemoteControl/RemoteControl.iml" filepath="$PROJECT_DIR$/Command/RemoteControl/RemoteControl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/Starbuzz/Starbuzz.iml" filepath="$PROJECT_DIR$/TemplateMethod/Starbuzz/Starbuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/StarbuzzCoffee/StarbuzzCoffee.iml" filepath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/StarbuzzCoffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" filepath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Observer/WeatherStation/WeatherStation.iml" filepath="$PROJECT_DIR$/Observer/WeatherStation/WeatherStation.iml" />
+    </modules>
+  </component>
+</project>

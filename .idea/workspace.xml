@@ -1,0 +1,1787 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="8" />
+    <option name="CUSTOM_SCOPE_NAME" value="Current File" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05e56c0f-490e-4d8b-b2d0-60589df455dc" name="Default" comment="Репозиторий &quot;перезалит&quot;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/Adapter.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/DuckTestDrive.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Turkey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/TurkeyAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/WildTurkey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/Command.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/RemoteControl.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/RemoteLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFanHighCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFanMediumCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunBase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunLowCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/CeilingFunOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/GarageDoorDownCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/GarageDoorUpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/HottubOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/HottubOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/LightOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/LightOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/MacroCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/NoCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/StereoOffWithCDCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/StereoOnWithCDCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/TVOffCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/commands/TVOnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/RemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/RemoteControlWithUndo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/SimpleRemoteControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/CeilingFan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/GarageDoor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Hottub.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Light.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/Stereo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/controllers/TV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/FanSpeed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/GarageType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/controls/types/RoomType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/Cafe.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/CompositeIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/CompositeMenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/MenuComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/NullIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Composite/Composite.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/Decorator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/LowerCaseInputStream.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/InputTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/LowerCaseInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/StarbuzzCoffee.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/StarbuzCoffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/Beverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/BeverageSize.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/beverage/CondimentDecorator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/DarkRoast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/Espresso.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/coffee/HouseBlend.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Mocha.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Soy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/supplements/Whip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/HomeCinemaTheater.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/HomeTheatreFacade.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/HomeTheatreTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Amplifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/CdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/DvdPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/PopcornPopper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Projector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Screen.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/TheaterLights.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Facade/HomeCinemaTheater/src/sbt/jrakhm/facade/components/Tuner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Factory.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/Pizza.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/PizzaTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/PizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/chicago/ChicagoPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/BlackOlives.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Cheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Clams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Dough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/EggPlant.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/FreshClams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/FrozenClams.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Garlic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/MarinaraSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/MozzarellaCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Mushrooms.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Onion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Pepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/PlumTomatoSauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/RedPepper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ReggianoCheese.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Sauce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/SlicedPepperoni.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Spinach.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ThickCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/ThinCrustDough.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/ingredients/Veggies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/ingredient/newyork/NYPizzaIngredientFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/CheseePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/ClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/PepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/Pizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/PizzaType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/VeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStyleCheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStylePepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/chicago/ChicagoStyleVeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYClamPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStyleCheesePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStylePepperoniPizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/pizza/newyork/NYStyleVeggiePizza.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/PizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/chicago/ChicagoPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/newyork/NYPizzaStore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/CafeMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/DinnerMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/DinnerMenuIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/IteratorMenuTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/MenuItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/PancakeHouseMenu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/Waitress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Iterator/Iterator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/WeatherStation.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/WeatherStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/observers/CurrentConditionDisplay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/observers/DisplayElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/subject/WeatherData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Patterns.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/CDCoverViewer.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageComponent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxyTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/GumballMonitor.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineRemote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitorTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/HasQuarterSate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/states/WinnerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/PersonBean.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/MatchMakingTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/NonOwnerInvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/OwnerInvocationHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBeanImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/GumballMachine.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/GumballMachine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/GumballMachineTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/HasQuarterSate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/NoQuarterState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/SoldOutState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/SoldState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/State.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/states/WinnerState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/State/State.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/MiniDuckSimulator.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/MiniDuckSimulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyNoWay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyRocketPowered.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/FlyWithWings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/MuteQuack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/Quack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/QuackBehavior.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/behaviors/Squeak.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/Duck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/MallardDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/ducks/ModelDuck.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Strategy/Strategy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/Starbuzz.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/BeverageTestDrive.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CaffeineBeverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CaffeineBeverageWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/Coffee.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/CoffeeWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/Tea.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/beverage/TeaWithHook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TemplateMethod/TemplateMethod.iml" />
+    </list>
+    <ignored path="Patterns.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Patterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DuckTestDrive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteLoader.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/RemoteLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/MenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/MenuComponent.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/CompositeIterator.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/NullIterator.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/CompositeMenuTestDrive.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/Waitress.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/Menu.java" />
+        <option value="$PROJECT_DIR$/Cafe/src/sbt/jrakhm/composite/MenuItem.java" />
+        <option value="$PROJECT_DIR$/Pizza/src/sbt/jrakhm/factory/Test.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/State.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/State.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/SoldState.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/WinnerState.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/states/HasQuarterSate.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/GumballMonitor.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/GumballMachine(State).iml" />
+        <option value="$PROJECT_DIR$/GumballMonitor/GumballMonitor(Proxy).iml" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/GumballMachineRemote.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/State.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/NoQuarterState.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldOutState.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/SoldState.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/WinnerState.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/GumballMachine/src/sbt/jrakhm/state/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/GumballMonitor.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitor.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachine.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/states/HasQuarterSate.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineTestDrive.java" />
+        <option value="$PROJECT_DIR$/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitorTestDrive.java" />
+        <option value="$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/InputTest.java" />
+        <option value="$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/BeverageTestDrive.java" />
+        <option value="$PROJECT_DIR$/Proxy/ImageProxy/src/sbt/jrakhm/proxy/ImageProxy.java" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageComponent.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxy.java" />
+        <option value="$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxyTestDrive.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBeanImpl.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/QonwerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/OwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/NotOwnerInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/MatchMakingTestDrive.java" />
+        <option value="$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBean.java" />
+        <option value="$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Duck.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>WebSocket issues</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidLintEnforceUTF8</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Patterns" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Default" />
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.intellij.ide.scratch.ScratchProjectViewPane$MyProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JProjects\Patterns\Iterator" />
+      <recent name="D:\JProjects\Patterns\GumballMonitor\src\sbt\jrakhm\proxy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sbt.jrakhm.composite" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JProjects\Patterns\Proxy" />
+      <recent name="D:\JProjects\Patterns\Observer" />
+      <recent name="D:\JProjects\Patterns\Decorator" />
+      <recent name="D:\JProjects\Patterns\TemplateMethod" />
+      <recent name="D:\JProjects\Patterns\Command" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RemoteLoader">
+    <configuration default="false" name="IteratorMenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sbt.jrakhm.iterator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sbt.jrakhm.iterator.IteratorMenuTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Cafe1" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sbt.jrakhm.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sbt.jrakhm.proxy.ImageProxyTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="CDCoverViewer" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MatchMakingTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sbt.jrakhm.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sbt.jrakhm.proxy.MatchMakingTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="PersonBean" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="DuckTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sbt.jrakhm.adapter.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sbt.jrakhm.adapter.simple.DuckTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="DuckTestDrive" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="RemoteLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="sbt.jrakhm.command.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="sbt.jrakhm.command.RemoteLoader" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="RemoteControl" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Patterns" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.IteratorMenuTestDrive" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ImageProxyTestDrive" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MatchMakingTestDrive" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.RemoteLoader" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DuckTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MatchMakingTestDrive" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ImageProxyTestDrive" />
+        <item index="4" class="java.lang.String" itemvalue="Application.IteratorMenuTestDrive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05e56c0f-490e-4d8b-b2d0-60589df455dc" name="Default" comment="" />
+      <created>1495786450794</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495786450794</updated>
+      <workItem from="1495786453954" duration="8892000" />
+      <workItem from="1495802676457" duration="226000" />
+      <workItem from="1496055566687" duration="3778000" />
+      <workItem from="1496065334648" duration="70000" />
+      <workItem from="1496125011730" duration="8788000" />
+      <workItem from="1496213226834" duration="1262000" />
+      <workItem from="1496384888436" duration="11987000" />
+      <workItem from="1496399732974" duration="2951000" />
+      <workItem from="1496406357124" duration="305000" />
+      <workItem from="1496647550153" duration="10987000" />
+      <workItem from="1496732025968" duration="1118000" />
+      <workItem from="1496733156349" duration="1081000" />
+      <workItem from="1496734738014" duration="7219000" />
+      <workItem from="1496816312673" duration="609000" />
+      <workItem from="1496914718605" duration="4302000" />
+      <workItem from="1496996695428" duration="651000" />
+      <workItem from="1503564222515" duration="8656000" />
+      <workItem from="1503573854995" duration="312000" />
+      <workItem from="1503574390653" duration="7618000" />
+      <workItem from="1503641639825" duration="10514000" />
+      <workItem from="1503903541980" duration="229000" />
+      <workItem from="1503906420379" duration="1095000" />
+      <workItem from="1503910873191" duration="902000" />
+      <workItem from="1504162973170" duration="11859000" />
+      <workItem from="1504187123709" duration="1036000" />
+      <workItem from="1504245928823" duration="1799000" />
+      <workItem from="1505719227477" duration="832000" />
+      <workItem from="1505725745611" duration="775000" />
+      <workItem from="1505726530068" duration="106000" />
+      <workItem from="1505726642002" duration="5453000" />
+      <workItem from="1505735191782" duration="4822000" />
+      <workItem from="1505741148127" duration="349000" />
+      <workItem from="1505741525178" duration="625000" />
+      <workItem from="1505742164624" duration="597000" />
+      <workItem from="1505742801555" duration="404000" />
+      <workItem from="1505743219475" duration="996000" />
+      <workItem from="1505804131611" duration="3902000" />
+      <workItem from="1505808300953" duration="4648000" />
+      <workItem from="1505891640190" duration="3962000" />
+      <workItem from="1506952084000" duration="119000" />
+      <workItem from="1507042436460" duration="996000" />
+      <workItem from="1507100926976" duration="138000" />
+      <workItem from="1507101125257" duration="365000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1495802782087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495802782087</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added factory pattern">
+      <created>1496135773454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496135773454</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added command pattern">
+      <created>1496406396813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496406396813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Modification of the pattern command">
+      <created>1496661528651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1496661528651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modification of the pattern command">
+      <created>1496661648457</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496661648457</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added a pattern adapter (simple)">
+      <created>1496735442903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1496735442903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added a pattern facade">
+      <created>1496759300784</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1496759300784</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added a pattern template method">
+      <created>1496921168948</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1496921168948</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added a pattern  iterator">
+      <created>1503579584619</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1503579584619</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added implementation of the composite pattern and made iterator refinement">
+      <created>1503667117781</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1503667117781</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added implementation of the state pattern">
+      <created>1504183911178</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1504183911178</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added implementation of the proxy pattern. Great refactoring done">
+      <created>1505742969535</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1505742969535</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Patches in the iterator pattern">
+      <created>1505743540126</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1505743540126</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added module, CDCoverViewer, that implements the proxy pattern">
+      <created>1505810647788</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1505810647788</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added module, PersonBean, that implements the proxy pattern">
+      <created>1505895652199</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1505895652199</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1">
+      <created>1507043047778</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1507043047778</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="137335000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.48720682" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5127932" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3219616" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29104477" sideWeight="0.47867805" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.4936034" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23134328" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.49573562" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29104477" sideWeight="0.52132195" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3219616" sideWeight="0.48507464" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29104477" sideWeight="0.47867805" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.4936034" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23134328" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.49573562" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942432" sideWeight="0.4978678" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Added factory pattern" />
+    <MESSAGE value="Added command pattern" />
+    <MESSAGE value="Modification of the pattern command" />
+    <MESSAGE value="Added a pattern adapter (simple)" />
+    <MESSAGE value="Added a pattern facade" />
+    <MESSAGE value="Added a pattern template method" />
+    <MESSAGE value="Added a pattern  iterator" />
+    <MESSAGE value="Added implementation of the composite pattern and made iterator refinement" />
+    <MESSAGE value="Added implementation of the state pattern" />
+    <MESSAGE value="Added implementation of the proxy pattern. Great refactoring done" />
+    <MESSAGE value="Patches in the iterator pattern" />
+    <MESSAGE value="Added module, CDCoverViewer, that implements the proxy pattern" />
+    <MESSAGE value="Added module, PersonBean, that implements the proxy pattern" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/PizzaTestDrive.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/store/newyork/NYPizzaStore.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/Waitress.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineTestDrive.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxy.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="javascript-exception">
+          <properties />
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="44" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$JAVA_HOME$/src.zip!/java/rmi/server/UnicastRemoteObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="116" column="18" selection-start-line="116" selection-start-column="18" selection-end-line="116" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/GumballMonitor/GumballMonitor.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/monitor/GumballMonitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/GumballMonitor/src/sbt/jrakhm/proxy/machine/GumballMachineRemote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/Proxy.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Cafe/Cafe.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="44" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/iterator/MenuItem.java" />
+    <entry file="file://$PROJECT_DIR$/Decorator/StarbuzzCoffee/src/sbt/jrakhm/decorator/StarbuzCoffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/Pizza/src/sbt/jrakhm/factory/PizzaTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/iterator/IteratorMenuTestDrive.java" />
+    <entry file="file://$PROJECT_DIR$/Observer/WeatherStation/src/sbt/jrakhm/observer/weather/WeatherStation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/State/GumballMachine/src/sbt/jrakhm/state/GumballMachineTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Iterator.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Strategy/MiniDuckSimulator/src/sbt/jrakhm/strategy/MiniDuckSimulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Composite.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TemplateMethod/Starbuzz/src/sbt/jrakhm/templatemethod/BeverageTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Cafe1/Cafe1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Cafe1/src/sbt/jrakhm/iterator/IteratorMenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Cafe/src/sbt/jrakhm/composite/CompositeMenuTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/util/Enumeration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/awt/event/ActionListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/java/lang/Runnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxyTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/CDCoverViewer/src/sbt/jrakhm/proxy/ImageComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/OwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/NonOwnerInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBeanImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/MatchMakingTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="63" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Proxy/PersonBean/src/sbt/jrakhm/proxy/PersonBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/markdown-exported-files.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/markdown-navigator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-335">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Decorator/LowerCaseInputStream/src/sbt/jrakhm/decorator/InputTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Adapter/DuckTestDrive/src/sbt/jrakhm/adapter/simple/DuckTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/RemoteControl/src/sbt/jrakhm/command/RemoteLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>IBM SDK 1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Cafe1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
